@@ -1,0 +1,18 @@
+
+
+Cmdbkg "file.bmp" [transparency 0-100(default 33) [includeBorders]]
+Specify no arguments to remove previous background. 
+Specify /? to see help.
+
+-------------------------------------------------------------------------------------
+Here, in this example Demo - You'll find other plugins along with the main 'cmdbkg.exe' - As, they were needed by 'kvc' for creating this simple and effective Batch file demo. You can know about them at www.thebateam.org
+
+Just simply run example.bat file and You'll see great potential of this plugin. :)
+hope, You'll like the work and efforts of Misol101 (The Creator) - aGerman (The main Source of Idea - creator of legendary 'insertBMP' batch plugin) and TheBATeam (Admirer of their Work - the usage explainers).
+
+Find 10 seconds of your time to appreciate them. Feel free to leave a comment at: 
+www.thebateam.org
+
+Thanks for your time. :)
+-------------------------------------------------------------------------------------
+
